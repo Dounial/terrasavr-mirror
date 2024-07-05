@@ -10,4 +10,3 @@ https://yellowafterlife.itch.io
 <h3>Terrasavr for Flash Player (1.3.5 & lower)</h3>
 <h3>Terrasavr+ (Updated/modernized overall version)</h3>
 <h3>Terranion (Mini-wiki for Terraria)</h3>
-<h5>as well as their originally compressed .zip-files</h5>
